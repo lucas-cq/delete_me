@@ -5,6 +5,6 @@ def percentage() :
         final_calc = int(user_input) / int(second_input) * 100
         print('You got ' + str(final_calc) + '%')
     except:
-        print('Use a number dummy')
+        print('Use a number silly')
 
 percentage()
